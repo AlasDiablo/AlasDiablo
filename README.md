@@ -2,11 +2,17 @@
 
 I'm **AlasDiablo** (or **lIotaMiu**), I'm a French software engineer.
 
-##### 🔭 I'm currently working on Minecraft Mods, JavaScript libraries, Web Services and more!
+#### 🔭 I'm currently working on Minecraft Mods, JavaScript libraries, Web Services and more!
 
-###### Take a look at what I've created and contributed:
+#### 💬 Ask me about anything
 
-My Own creation:
+#### 📫 How to reach me: You can reach me via my Minecraft Modding [Discord](https://discord.gg/KkzqnzA)
+
+#### 😄 Pronouns: It doesn't matter, I have two pseudonyms, one is male (AlasDiablo) and the other is female (lIotaMiu).
+
+##### Take a look at what I've created and contributed:
+
+###### My Own creation:
 
 <p align="center">
     <a href="https://github.com/Janoeo/Foundation" target="_blank">
@@ -23,7 +29,7 @@ My Own creation:
     </a>
 </p>
 
-My contribution:
+###### My contribution:
 
 <p align="center">
     <a href="https://github.com/Inist-CNRS/lodex" target="_blank">
