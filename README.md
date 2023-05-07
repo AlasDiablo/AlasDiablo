@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **AlasDiablo** (or **lIotaMiu**), I'm a French software engineer.
+I'm **AlasDiablo** (or **lIotaMiu**), and I'm a French student in software engineering.
 
 #### 🔭 I'm currently working on Minecraft Mods, JavaScript libraries, Web Services and more!
 
