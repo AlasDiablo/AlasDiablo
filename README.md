@@ -40,7 +40,7 @@ I'm **AlasDiablo** (or **lIotaMiu**), I'm a French software engineer.
     </a>
 </p>
 
-##### 🔥 Statistics
+#### 🔥 Statistics
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlasDiablo&layout=compact&langs_count=128" alt="AlasDiablo Languages use"/>
