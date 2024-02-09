@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **AlasDiablo** (or **lIotaMiu**), and I'm a French student in software engineering.
+I'm **AlasDiablo** (or **lIotaMiu**), and I'm a French software engineering.
 
 #### 🔭 I'm currently working on Minecraft Mods, JavaScript libraries, Web Services and more!
 
@@ -10,9 +10,9 @@ I'm **AlasDiablo** (or **lIotaMiu**), and I'm a French student in software engin
 
 #### 😄 Pronouns: It doesn't matter, I have two pseudonyms, one is male (AlasDiablo) and the other is female (lIotaMiu).
 
-##### Take a look at what I've created and contributed:
+### Take a look at what I've created and contributed:
 
-###### My Own creation:
+#### My Own creation:
 
 <p align="center">
     <a href="https://github.com/Janoeo/Foundation" target="_blank">
@@ -29,7 +29,7 @@ I'm **AlasDiablo** (or **lIotaMiu**), and I'm a French student in software engin
     </a>
 </p>
 
-###### My contribution:
+#### My contribution:
 
 <p align="center">
     <a href="https://github.com/Inist-CNRS/lodex" target="_blank">
@@ -40,7 +40,7 @@ I'm **AlasDiablo** (or **lIotaMiu**), and I'm a French student in software engin
     </a>
 </p>
 
-#### 🔥 Statistics
+### 🔥 Statistics
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlasDiablo&layout=compact&langs_count=128" alt="AlasDiablo Languages use"/>
