@@ -12,7 +12,7 @@ I'm **AlasDiablo** (or **lIotaMiu**), and I'm a French software engineering.
 
 ### Take a look at what I've created and contributed:
 
-#### My Own creation:
+#### My importants Own creations:
 
 <p align="center">
     <a href="https://github.com/Janoeo/Foundation" target="_blank">
@@ -29,7 +29,7 @@ I'm **AlasDiablo** (or **lIotaMiu**), and I'm a French software engineering.
     </a>
 </p>
 
-#### My contribution:
+#### My contributions:
 
 <p align="center">
     <a href="https://github.com/Inist-CNRS/lodex" target="_blank">
@@ -37,6 +37,15 @@ I'm **AlasDiablo** (or **lIotaMiu**), and I'm a French software engineering.
     </a>
     <a href="https://github.com/BibCnrs/bibcnrs-front" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=BibCnrs&repo=bibcnrs-front" alt="BibCNRS Pin"/>
+    </a>
+    <a href="https://github.com/Inist-CNRS/tdm-factory" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Inist-CNRS&repo=tdm-factory" alt="Tdm Factory Pin"/>
+    </a>
+    <a href="https://github.com/Inist-CNRS/ezs" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Inist-CNRS&repo=ezs" alt="EZS Pin"/>
+    </a>
+    <a href="https://github.com/Inist-CNRS/web-services" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Inist-CNRS&repo=web-services" alt="ISTEX Services Pin"/>
     </a>
 </p>
 
