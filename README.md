@@ -52,8 +52,9 @@ I'm **AlasDiablo** (or **lIotaMiu**), and I'm a French software engineering.
 ### 🔥 Statistics
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlasDiablo&layout=compact&langs_count=128" alt="AlasDiablo Languages use"/>
+    <img src="./github-metrics.svg" alt="AlasDiablo stats"/>
 </p>
+
 
 <!--
 **AlasDiablo/AlasDiablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
