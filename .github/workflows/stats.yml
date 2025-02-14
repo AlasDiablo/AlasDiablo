@@ -26,7 +26,7 @@ jobs:
 
           # Options
           user: AlasDiablo
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_lines: yes
