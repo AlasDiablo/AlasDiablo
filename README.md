@@ -6,8 +6,6 @@ I'm **AlasDiablo** (or **lIotaMiu**), and I'm a French software engineering.
 
 #### 💬 Ask me about anything
 
-#### 📫 How to reach me: You can reach me via my Minecraft Modding [Discord](https://discord.gg/KkzqnzA)
-
 #### 😄 Pronouns: It doesn't matter, I have two pseudonyms, one is male (AlasDiablo) and the other is female (lIotaMiu).
 
 ### Take a look at what I've created and contributed:
